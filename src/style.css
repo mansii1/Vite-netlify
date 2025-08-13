@@ -26,7 +26,9 @@ body {
   height: 80vh;
   color: white;
   cursor: pointer;
+  background-size: cover;
   border-radius: 50px;
+  width: 100%;
   flex: 0.5;
   margin: 10px;
   position: relative;
